@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-threter/static/css/main.be6bf77c.css",
+    "main.js": "/Movie-threter/static/js/main.58e85c99.js",
+    "index.html": "/Movie-threter/index.html",
+    "main.be6bf77c.css.map": "/Movie-threter/static/css/main.be6bf77c.css.map",
+    "main.58e85c99.js.map": "/Movie-threter/static/js/main.58e85c99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6bf77c.css",
+    "static/js/main.58e85c99.js"
+  ]
+}

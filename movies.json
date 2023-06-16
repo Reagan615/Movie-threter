@@ -1,0 +1,158 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "title": "Jurassic Park",
+        "year": 1993,
+        "runningTime": "2h 7m",
+        "genre": ["Adventure", "Action", "Sci-Fi"],
+        "img": "https://github.com/mrspecht/media/blob/main/img/jurassic-park.jpg?raw=true"
+      },
+      {
+        "id": 2,
+        "title": "Eternals",
+        "year": 2021,
+        "runningTime": "2h 37m",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/eternals.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Matrix",
+        "year": 1999,
+        "runningTime": "2h 16m",
+        "genre": ["Action", "Sci-Fi"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-matrix.jpg"
+      },
+      {
+        "id": 4,
+        "title": "F9: The Fast Saga",
+        "year": 2021,
+        "runningTime": "2h 25m",
+        "genre": ["Action", "Crime", "Thriller"],
+        "img": "https://github.com/mrspecht/media/blob/main/img/f9-the-fast-saga.jpg?raw=true"
+      },
+      {
+        "id": 5,
+        "title": "JFK",
+        "year": 1991,
+        "runningTime": "3h 26m",
+        "genre": ["Drama", "History", "Thriller"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/jfk.jpg"
+      },
+      {
+        "id": 6,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "runningTime": "2h 58m",
+        "genre": ["Adventure", "Drama", "Fantasy"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-fellowship-of-the-ring.jpg"
+      },
+      {
+        "id": 7,
+        "title": "No Time to Die",
+        "year": 2021,
+        "runningTime": "2h 43m",
+        "genre": ["Action", "Adventure", "Thriller"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/no-time-to-die.jpg"
+      },
+      {
+        "id": 8,
+        "title": "The Batman",
+        "year": 2022,
+        "runningTime": "2h 59m",
+        "genre": ["Action", "Crime", "Drama"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-batman.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Rocky",
+        "year": 1976,
+        "runningTime": "2h",
+        "genre": ["Drama", "Sport"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/rocky.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "runningTime": "2h 30m",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "img": "https://github.com/mrspecht/media/blob/main/img/spider-man-no-way-home.jpg?raw=true"
+      },
+      {
+        "id": 11,
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "runningTime": "2h 17m",
+        "genre": ["Action", "Sci-Fi"],
+        "img": "https://github.com/mrspecht/media/blob/main/img/terminator-2-judgment-day.jpg?raw=true"
+      },
+      {
+        "id": 12,
+        "title": "The Exorcist",
+        "year": 1973,
+        "runningTime": "2h 20m",
+        "genre": ["Horror"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-exorcist.jpg"
+      },
+      {
+        "id": 13,
+        "title": "West Side Story",
+        "year": 2021,
+        "runningTime": "2h 36m",
+        "genre": ["Musical", "Drama"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/west-side-story.jpg"
+      },
+      {
+        "id": 14,
+        "title": "The Lion King",
+        "year": 1994,
+        "runningTime": "1h 28m",
+        "genre": ["Animation", "Adventure", "Drama"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-lion-king.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Gone in 60 Seconds",
+        "year": 2000,
+        "runningTime": "1h 58m",
+        "genre": ["Action", "Crime", "Thriller"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/gone-in-60-seconds.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Titanic",
+        "year": 1999,
+        "runningTime": "3h 14m",
+        "genre": ["Drama", "Romance"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/titanic.jpg"
+      },
+      {
+        "id": 17,
+        "title": "The Remains of the Day",
+        "year": 1993,
+        "runningTime": "2h 14m",
+        "genre": ["Drama", "Romance"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-remains-of-the-day.jpg"
+      },
+      {
+        "id": 18,
+        "title": "The Godfather",
+        "year": 1973,
+        "runningTime": "2h 55m",
+        "genre": ["Crime", "Drama"],
+        "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-godfather.jpg"
+      }
+    ],
+    "length": 18,
+    "info": {
+      "project": "Movies API",
+      "description": "Simple API for students",
+      "version": "1.0.4",
+      "author": "Andre Specht",
+      "email": "andrespecht@outlook.com"
+    }
+  }
+
+ 
